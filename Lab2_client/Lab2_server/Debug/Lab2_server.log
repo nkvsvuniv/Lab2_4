@@ -1,0 +1,10 @@
+﻿Сборка начата 26.05.2015 20:23:15.
+     1>Проект "D:\Університет\2 Курс\ООП\2 семестр\Labs\Lab_2\Lab2_client\Lab2_server\Lab2_server.vcxproj" в узле 2 (целевые объекты Build).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Lab2_server.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>Link:
+         Lab2_server.vcxproj -> D:\Університет\2 Курс\ООП\2 семестр\Labs\Lab_2\Lab2_client\Debug\Lab2_client.exe
+     1>Сборка проекта "D:\Університет\2 Курс\ООП\2 семестр\Labs\Lab_2\Lab2_client\Lab2_server\Lab2_server.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.24

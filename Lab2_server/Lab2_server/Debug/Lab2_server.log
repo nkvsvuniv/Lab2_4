@@ -1,0 +1,22 @@
+﻿Сборка начата 26.05.2015 21:19:22.
+     1>Проект "D:\Університет\2 Курс\ООП\2 семестр\Labs\Lab_2\Lab2_server\Lab2_server\Lab2_server.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Lab2_server.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Lab2ServerDlg.cpp
+         Lab2ServerDlg.cpp
+     1>d:\університет\2 курс\ооп\2 семестр\labs\lab_2\lab2_server\lab2_server\lab2serverdlg.cpp(177): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>d:\університет\2 курс\ооп\2 семестр\labs\lab_2\lab2_server\lab2_server\lab2serverdlg.cpp(178): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>d:\університет\2 курс\ооп\2 семестр\labs\lab_2\lab2_server\lab2_server\lab2serverdlg.cpp(179): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>d:\університет\2 курс\ооп\2 семестр\labs\lab_2\lab2_server\lab2_server\lab2serverdlg.cpp(180): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Університет\2 Курс\ООП\2 семестр\Labs\Lab_2\Lab2_server\Debug\Lab2_server.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\Університет\2 Курс\ООП\2 семестр\Labs\Lab_2\Lab2_server\Debug\Lab2_server.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Університет\2 Курс\ООП\2 семестр\Labs\Lab_2\Lab2_server\Debug\Lab2_server.lib" /MACHINE:X86 Debug\Lab2_server.res
+         Debug\glutMFC.obj
+         Debug\Lab2ServerDlg.obj
+         Debug\Lab2_server.obj
+         Debug\MySocket.obj
+         Debug\stdafx.obj
+         Lab2_server.vcxproj -> D:\Університет\2 Курс\ООП\2 семестр\Labs\Lab_2\Lab2_server\Debug\Lab2_server.exe
+     1>Сборка проекта "D:\Університет\2 Курс\ООП\2 семестр\Labs\Lab_2\Lab2_server\Lab2_server\Lab2_server.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:02.09
